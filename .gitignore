@@ -1,4 +1,2 @@
-.idea/
-project/target
-src/test/
-target/
+*.class
+*.log
